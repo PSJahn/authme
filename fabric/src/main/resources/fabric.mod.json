@@ -29,7 +29,7 @@
     "fabricloader": "${fabric_loader_version_range}",
     "fabric-lifecycle-events-v1": "*",
     "fabric-resource-loader-v0": "*",
-    "resourcefulconfig": "*"
+    "resourcefulconfig": ">=3.9.1"
   },
   "suggests": {
     "modmenu": "*"

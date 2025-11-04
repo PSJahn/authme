@@ -36,7 +36,7 @@ side = "BOTH"
 [[dependencies.'${mod_id}']]
 modId = "resourcefulconfig"
 type = "required"
-versionRange = "*"
+versionRange = "[3.9.1,)"
 ordering = "BEFORE"
 side = "BOTH"
 
